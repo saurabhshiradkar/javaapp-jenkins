@@ -19,6 +19,7 @@
         <!-- Add your main content here -->
         <p>Changed</p>
         <a href="about.jsp">About Page</a>
+        <a href="services.jsp">Services Page</a>
     </main>
 
     <footer>
