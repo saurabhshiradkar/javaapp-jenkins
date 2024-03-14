@@ -11,7 +11,7 @@
     <!-- Your content goes here -->
     <header>
         <h1>Welcome to Your Website</h1>
-        <h1>This change is automatically deployed by jenkins ci-cd</h1>
+        <h1>This change is automatically deployed by jenkins ci-cd tool</h1>
         <!-- Add navigation links or any other header content here -->
     </header>
 
